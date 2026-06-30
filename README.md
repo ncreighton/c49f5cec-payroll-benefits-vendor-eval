@@ -1,2 +1,28 @@
-# c49f5cec-payroll-benefits-vendor-eval
-Every payroll professionals needs this — most just don't know it yet.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Payroll &amp; Benefits Vendor Evaluation And Procurement — fully configured and ready to use - Pre-built d
+# Payroll & Benefits Vendor Evaluation and Procurement Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w3cv12D7Eo3lm8nGcZD3o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w3cv12D7Eo3lm8nGcZD3o)
+
